@@ -20,5 +20,6 @@ Sou estudante no último ano do **Ensino Médio Integrado ao Técnico** na **ETE
 ## 💬 Me encontre por aqui
 
 - **GitHub**: [@vguarn](https://github.com/vguarn)
+- **instagram**: [@vguarn](https://instagram.com/vguarn)
 
 Estou sempre em busca de aprender mais e colaborar em projetos interessantes. Se você tem alguma sugestão de aprendizado ou projeto, fique à vontade para entrar em contato! 😄
